@@ -1,14 +1,20 @@
-# logicadeprogramação
+# Lógica de Programação
 
 A Lógica de Programação é essencial para que possamos entender a dinâmica de desenvolvimento de sistemas. Com ela é possível aprender a base do funcionamento de qualquer linguagem de programação, a entender o que são as estruturas básicas e como que as utilizamos na prática. 
 
-## Neste repositório vocês irão encontrar códigos com descrições sobre:
+## Iniciaremos entendendo o básico:
+  - Pensamento lógico e Algoritmos
+  - Representação de Algoritmos (Descrição Narrativa, Fluxograma e Pseudocódigos)
+  - Linguagens de Programação
+  - IDEs
+
+## Em seguida vocês irão encontrar códigos com descrições sobre:
   - Tipos de Dados
   - Variáveis
-  - Operadores(Lógicos e relacionais)
+  - Operadores(Lógicos, relacionais e matemáticos)
   - Comandos de entrada e saída
   - Estruturas condicionais
-  - Estruturas de repetição(loops)
+  - Estruturas de repetição(Loops)
   - Arrays(Vetores e Matrizes)
   
 ## Os conceitos serão aplicados em:
@@ -21,4 +27,4 @@ A Lógica de Programação é essencial para que possamos entender a dinâmica d
   - JavaScript
   - PHP
 
-Espero que se aventurem nessa viagem!
+## Espero que se aventurem nessa viagem!
