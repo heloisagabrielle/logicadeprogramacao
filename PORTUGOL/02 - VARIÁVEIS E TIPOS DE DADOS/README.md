@@ -33,15 +33,21 @@ inteiro idade
 real salario
 
 **OBS: 
-CUIDADO AO NOMEAR UMA VARIÁVEL! 
+
+CUIDADO AO NOMEAR UMA VARIÁVEL!
+
 O NOME DEVE SER COERENTE COM O QUE ELA IRÁ ARMAZENAR!
+
 NUNCA USAR CARACTERES ESPECIAIS PARA CRIAR VARIÁVEIS EX: inteiro @nome !
+
 NUNCA DEVEM COMEÇAR COM NÚMEROS EX: real 1salario
+
 
 ## COMO INSERIR UM VALOR DENTRO DE UMA VARIÁVEL?
 
 ### Existem duas formas:
 -Na hora da criação da variável  Ex: real idade = 23
+
 -Após a criação Ex: idade = 24
 
 
