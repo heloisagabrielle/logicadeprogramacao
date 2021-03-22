@@ -1,0 +1,14 @@
+programa{
+	funcao inicio(){
+		//declaração com atribuicao direta
+		cadeia mensagem = "Bem Vindos"
+
+		//declaração simples sem atribuição
+		inteiro idade
+		real salario
+
+
+		idade = 23
+		salario = 1700
+	}
+}
