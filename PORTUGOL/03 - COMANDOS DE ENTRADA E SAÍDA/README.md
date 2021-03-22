@@ -15,7 +15,8 @@ Comando:
 
 ### Exemplo:
 
-//Se quiséssemos criar um algoritmo que recebe o nome do usuário.
+Se quiséssemos criar um algoritmo que recebe o nome do usuário
+
 
 programa{
 	funcao inicio(){
