@@ -13,21 +13,14 @@ Comando:
 
 	- Leia()
 
-### Exemplo:
+### Exemplo: Se quiséssemos criar um algoritmo que recebe o nome do usuário.
 
-Se quiséssemos criar um algoritmo que recebe o nome do usuário
-
-programa{
+programa {
 
 	funcao inicio(){
-	
 		cadeia nome
-		
 		escreva("Informe o seu nome: \n") //Exibe a mensagem na tela solicitando algo para o usuário
-		
 		leia(nome) // o que o usuário digitou ficará armazenado dentro da variável nome
-		
 	    	escreva(nome)//Mostra o nome que o usuário digitou
-		
 	}
 }
