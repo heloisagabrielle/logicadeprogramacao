@@ -1,4 +1,4 @@
-#Estrutura Básica do Portugol
+# Estrutura Básica do Portugol
 
 //isto é um comentário, comentários não são executados na hora de rodar o código
 //você pode retirar os comentários que não irá interferir no funcionamento do seu código
@@ -11,7 +11,7 @@ programa {
 	}
 }
 
-#ao retirar os comentários é assim que fica a estrutura básica
+# ao retirar os comentários é assim que fica a estrutura básica
 
 programa {
 	funcao inicio() { 
